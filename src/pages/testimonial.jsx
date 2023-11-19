@@ -1,4 +1,4 @@
-const Testimonial = () => {
+const testimonial = () => {
     return (
       <div>
         testimonial
@@ -6,4 +6,4 @@ const Testimonial = () => {
     )
   }
   
-  export default Testimonial
+  export default testimonial
