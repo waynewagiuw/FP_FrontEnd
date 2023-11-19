@@ -1,9 +1,9 @@
-const snk = () => {
+const kelas = () => {
     return (
       <div>
-        syarat dan ketentuan
+        kelas
       </div>
     )
   }
   
-  export default snk
+  export default kelas
