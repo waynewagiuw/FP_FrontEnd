@@ -15,16 +15,15 @@ const index = () => {
                     <li><a href="#home">Home</a></li>
                     <li><a href="#about">About</a></li>
                     <li><a href="#food">Menu</a></li>
-                    <li><a href="#food-menu">Order</a></li>
                     <li><a href="#team___id">Team</a></li>
 
                 </ul>
-                <h1 className="logo">MI GORI</h1>
+                <h1 className="logo">Eat Well</h1>
                 </div>
             </nav>
             <section className="showcase-area" id="showcase">
                 <div className="showcase-container">
-                <h2 className="main-title" id="home">Selamat datang di Mi Gori</h2>
+                <h2 className="main-title" id="home">Selamat datang di Eat Well Restaurant</h2>
                 <a href="#food" className="btn btn-primary">Menu</a>
                 </div>
             </section>

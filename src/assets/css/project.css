@@ -203,9 +203,18 @@ body {
 
 .food-container {
   display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
+.food-type {
+  width: 48%; /* Adjust the width as needed, leaving some space for margin */
+  margin: 1%; /* Adjust the margin as needed */
+}
+
+.food-type img {
+  width: 100%;
+  height: auto;
+}
 .food-container img {
   display: block;
   width: 100%;
@@ -220,9 +229,10 @@ body {
   position: relative;
 }
 
+
 .img-content {
   position: absolute;
-  top: 70%;
+  top: 75%;
   left: 50%;
   transform: translate(-50%, -50%);
   opacity: 0;
@@ -230,6 +240,7 @@ body {
   text-align: center;
   transition: all 0.3s ease-in-out 0.1s;
 }
+
 
 .img-content h3 {
   color: rgb(255, 255, 255);

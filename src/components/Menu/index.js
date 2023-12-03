@@ -22,7 +22,7 @@ const Index = () => {
   // eslint-disable-next-line no-lone-blocks
   return (
     <section id="food">
-      <h2>Menu Mi Gori</h2>
+      <h2>Menu Eat Well</h2>
         <div class="food-container container">
           {menu.map((item) => {
             return ( 
@@ -31,7 +31,7 @@ const Index = () => {
               <div class="img-container">
                 <img
                   src={item.gambar}
-                  alt="Mi gori pic"
+                  alt=""
                 />
                 <div class="img-content">
                   <h3>{item.makanan}</h3>

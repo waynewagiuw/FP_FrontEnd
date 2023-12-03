@@ -7,10 +7,9 @@ const index = () => {
       <div className="about-wrapper container">
         <div className="about-text">
           <p className="small">Tentang Kami</p>
-          <h2>Mi Gori</h2>
+          <h2>Eat Well</h2>
           <p>
-            Mi Gori, Airmadidi merupakan sebuah tempat makan yang berada di Tomohon. Rumah makan ini menyajikan nasi gori ori/sosis/tuna/telur/sosis&telur dan juga mi gori telur/sosis/telur&sosis yang dibanderol dengan harga yang murah dan bersahabat dengan kantong Anda. Jika Anda mencari daftar
-            harga menu Mie Gori, Airmadidi, Anda berada di tempat yang tepat. Di bawah ini menu Mi Gori yang dijual beserta Harganya.
+          Eat Well adalah restoran yang mengusung konsep makanan sehat dan lezat. Dengan keahlian kami dalam memadukan bahan-bahan berkualitas tinggi, kami berkomitmen untuk menyajikan hidangan lezat yang tidak hanya memanjakan lidah Anda tetapi juga baik untuk kesehatan Anda.
           </p>
         </div>
         <div className="about-img">
